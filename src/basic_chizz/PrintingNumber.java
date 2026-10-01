@@ -6,6 +6,5 @@ public class PrintingNumber {
        System.out.println(49);
        System.out.println(49+1);
        System.out.println("49+1");
-
     }
 }
